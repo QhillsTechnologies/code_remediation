@@ -1,0 +1,9 @@
+streamlit
+pandas
+sqlalchemy
+langchain-community
+langchain-core
+langchain-openai
+openai
+psycopg2-binary
+pygments
